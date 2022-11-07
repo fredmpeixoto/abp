@@ -64,10 +64,10 @@
     "@abp/ng.theme.shared" "~6.0.1"
     tslib "^2.0.0"
 
-"@abp/ng.schematics@~5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@abp/ng.schematics/-/ng.schematics-5.2.2.tgz#7d42bda9cdbe3e79a623c4f0a08ba5da01e52f43"
-  integrity sha512-NU6uSjTKs3F3iobOQV2NmeGlMfph1wtAvpXhKrdeQgGeUElEaVTxJi83jBtR+SDfiwW7//uZoAdpx1IkI4/D8w==
+"@abp/ng.schematics@^5.2.2":
+  version "5.3.5"
+  resolved "https://registry.yarnpkg.com/@abp/ng.schematics/-/ng.schematics-5.3.5.tgz#622e05455bebadbbfdf2f80198c95c6d5d1fda9b"
+  integrity sha512-SIvHRb5m3OAgZ74404mIHSdwL0WlVwSBE6nF8Y88ZX+qW2XRAsVvjSvmvBrONvxxeavbPYLsa/EIo5u68L1JQw==
   dependencies:
     "@angular-devkit/core" "~11.0.2"
     "@angular-devkit/schematics" "~11.0.2"
