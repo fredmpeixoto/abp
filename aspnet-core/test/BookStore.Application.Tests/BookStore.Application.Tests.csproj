@@ -16,4 +16,10 @@
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.2.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Authors\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Authors\" />
+  </ItemGroup>
 </Project>

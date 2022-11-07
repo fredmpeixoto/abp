@@ -27,4 +27,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Authors\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Authors\" />
+  </ItemGroup>
 </Project>
